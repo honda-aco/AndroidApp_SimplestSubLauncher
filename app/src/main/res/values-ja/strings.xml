@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Simple Sublauncher</string>
+    <string name="service_name">.service.ServiceLauncher</string>
+    <string name="db_name">SubLauncherDB</string>
+    <string name="db_version">1</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_initialize">リストを初期化する</string>
+    <string name="action_cancel">戻る</string>
+    <string name="position_top_left">左上に表示</string>
+    <string name="position_top_right">右上に表示</string>
+    <string name="position_bottom_left">左下に表示</string>
+    <string name="position_bottom_right">右下に表示</string>
+    <string name="warn_message1">リストにアイテムがありません。</string>
+    <string name="error_message1">起動できないアプリケーションです。</string>
+    <string-array name="spinner_position">
+        <item>左上に表示</item>
+        <item>右上に表示</item>
+        <item>左下に表示</item>
+        <item>右下に表示</item>
+    </string-array>
+</resources>
